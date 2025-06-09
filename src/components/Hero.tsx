@@ -129,7 +129,7 @@ const Hero = ({ scrollToSection }: HeroProps) => {
                   <div className="backdrop-blur-lg bg-white/10 border border-white/20 rounded-full p-6 shadow-2xl">
                     <div className="w-80 h-80 md:w-96 md:h-96 bg-gradient-to-br from-white/20 to-white/5 rounded-full overflow-hidden relative">
                       <img 
-                        src="20231215_114455.jpg" 
+                        src="https://i.postimg.cc/pLyZNvvJ/20231215-114455.jpg" 
                         alt="Abhay Pandey - Automation Engineer"
                         className="w-full h-full object-cover rounded-full"
                       />
