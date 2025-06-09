@@ -59,7 +59,7 @@ const Hero = ({ scrollToSection }: HeroProps) => {
              {/* Enhanced Name Typography - Single Row */}
 <div className="relative mb-8 flex flex-col items-center">
   <div className="inline-block">
-    <h1 className="text-4xl md:text-6xl lg:text-5xl xl:text-6xl font-bold mb-4 leading-tight tracking-tight">
+    <h1 className="text-4xl md:text-6xl lg:text-5xl xl:text-6xl font-bold mb-8 leading-tight tracking-tight">
       <span className="bg-gradient-to-r from-white via-blue-100 to-white bg-clip-text text-transparent drop-shadow-2xl">
         ABHAY PANDEY
       </span>
