@@ -56,15 +56,17 @@ const Hero = ({ scrollToSection }: HeroProps) => {
                 </div>
               </div>
 
-               {/* Enhanced the name of title */}  
-             <div className="relative mb-8">
-  <h1 className="text-4xl md:text-6xl font-bold mb-4">
-    <span className="bg-gradient-to-r from-white via-blue-100 to-white bg-clip-text text-transparent">
-      ABHAY PANDEY
-    </span>
-  </h1>
-             {/* Decorative underline */}   
-  <div className="w-64 md:w-80 lg:w-96 h-1 bg-gradient-to-r from-transparent via-white to-transparent mx-auto rounded-full"></div>
+             {/* Enhanced Name Typography - Single Row */}
+<div className="relative mb-8 flex flex-col items-center">
+  <div className="inline-block">
+    <h1 className="text-4xl md:text-6xl lg:text-5xl xl:text-6xl font-bold mb-4 leading-tight tracking-tight">
+      <span className="bg-gradient-to-r from-white via-blue-100 to-white bg-clip-text text-transparent drop-shadow-2xl">
+        ABHAY PANDEY
+      </span>
+    </h1>
+    {/* Decorative underline - will match text width exactly */}
+    <div className="w-full h-1 bg-gradient-to-r from-transparent via-white to-transparent rounded-full"></div>
+  </div>
 </div>
               
               {/* Enhanced Role Description */}
