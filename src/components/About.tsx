@@ -7,10 +7,10 @@ const About = () => {
   const personalDetails = [
     { icon: Calendar, label: 'Date of Birth', value: '30/07/2003' },
     { icon: HomeIcon, label: 'Location', value: 'Surat, Gujarat, India' },
-    { icon: User, label: 'Languages', value: 'Gujarati, Hindi, English' },
+    { icon: User, label: 'Languages', value: 'English, Hindi, Gujarati' },
   ];
 
-  const hobbies = ['Cycling', 'WorkOut', 'Gaming', 'Explore New Things'];
+  const hobbies = ['Cycling', 'WorkOut', 'Gaming', 'Exploring New Things'];
 
   return (
     <div className="container mx-auto px-4">
