@@ -10,7 +10,7 @@ const Hero = ({ scrollToSection }: HeroProps) => {
   const handleDownloadResume = () => {
     const link = document.createElement('a');
     link.href = '/ABHAY PANDEY RESUME.pdf';
-    link.download = 'Abhay_Pandey_Resume.pdf';
+    link.download = 'https://drive.google.com/file/d/1-n7uvF-1TxvQRjfp1Abczl3zLjm2OAZC/view?usp=sharing';
     link.target = '_blank';
     link.rel = 'noopener noreferrer';
     link.click();
