@@ -50,7 +50,7 @@ const Hero = ({ scrollToSection }: HeroProps) => {
                   <div className="flex items-center gap-3">
                     <div className="w-2 h-2 bg-green-400 rounded-full animate-pulse"></div>
                     <span className="text-sm font-medium text-white/90">
-                      👋 Hello, I'm Available for Projects
+                      👋 Hello, Abhay here How can I Help You
                     </span>
                   </div>
                 </div>
@@ -60,12 +60,12 @@ const Hero = ({ scrollToSection }: HeroProps) => {
               <div className="relative mb-8">
                 <h1 className="text-4xl md:text-6xl lg:text-5xl xl:text-6xl font-bold mb-4 leading-tight tracking-tight">
                   <span className="bg-gradient-to-r from-white via-blue-100 to-white bg-clip-text text-transparent drop-shadow-2xl">
-                    Abhay Pandey
+                    ABHAY PANDEY
                   </span>
                 </h1>
                 
                 {/* Decorative underline */}
-                <div className="w-58.5 h-1 bg-gradient-to-r from-transparent via-white/60 to-transparent lg:mx-0 mx-auto rounded-full"></div>
+                <div className="w-46.9 h-1 bg-gradient-to-r from-transparent via-white/60 to-transparent lg:mx-0 mx-auto rounded-full"></div>
               </div>
               
               {/* Enhanced Role Description */}
