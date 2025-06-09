@@ -18,7 +18,7 @@ const Navigation = ({ activeSection, scrollToSection }: NavigationProps) => {
 
   const handleDownloadResume = () => {
     const link = document.createElement('a');
-    link.href = '/ABHAY PANDEY RESUME.pdf';
+    link.href = 'https://drive.google.com/file/d/1-n7uvF-1TxvQRjfp1Abczl3zLjm2OAZC/view?usp=sharing';
     link.download = 'Abhay_Pandey_Resume.pdf';
     link.target = '_blank';
     link.rel = 'noopener noreferrer';
