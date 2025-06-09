@@ -57,7 +57,7 @@ const Hero = ({ scrollToSection }: HeroProps) => {
               </div>
 {/* Enhanced Name Typography - Single Row */}
 <div className="relative mb-8">
-  <h1 className="text-4xl md:text-6xl lg:text-5xl xl:text-6xl font-bold mb-4 leading-tight tracking-tight text-center">
+  <h1 className="text-4xl md:text-6xl lg:text-5xl xl:text-6xl font-bold mb-4 leading-tight tracking-tight text-left">
     <span 
       className="bg-gradient-to-r from-white via-blue-100 to-white bg-clip-text text-transparent drop-shadow-2xl"
       style={{
