@@ -10,7 +10,7 @@ const About = () => {
     { icon: User, label: 'Languages', value: 'Gujarati, Hindi, English' },
   ];
 
-  const hobbies = ['Cycling', 'Working Out', 'Gaming'];
+  const hobbies = ['Cycling', 'WorkOut', 'Gaming', 'Explore New Things'];
 
   return (
     <div className="container mx-auto px-4">
