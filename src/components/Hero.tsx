@@ -50,7 +50,7 @@ const Hero = ({ scrollToSection }: HeroProps) => {
                   <div className="flex items-center gap-3">
                     <div className="w-2 h-2 bg-green-400 rounded-full animate-pulse"></div>
                     <span className="text-sm font-medium text-white/90">
-                      👋 Hello, Abhay here How can I Help You
+                      👋 Hello, Abhay here How can I Help You?
                     </span>
                   </div>
                 </div>
@@ -69,7 +69,7 @@ const Hero = ({ scrollToSection }: HeroProps) => {
   width: 100%;
   height: 2px;
   margin-top: 8px;
- h-1 bg-gradient-to-r from-transparent via-white/60 to-transparent lg:mx-0 mx-auto rounded-full"></div>
+ h-1 bg-gradient-to-r from-transparent via-white/100 to-transparent lg:mx-0 mx-auto rounded-full"></div>
               </div>
               
               {/* Enhanced Role Description */}
