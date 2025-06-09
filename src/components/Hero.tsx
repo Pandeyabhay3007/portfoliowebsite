@@ -64,9 +64,8 @@ const Hero = ({ scrollToSection }: HeroProps) => {
                   </span>
                 </h1>
                 
-                {/* Decorative underline */}
-               <div className="w-fit h-1 bg-gradient-to-r from-transparent via-white to-transparent mn-90 mx-auto rounded-full"></div>
-              </div>
+               {/* Decorative underline */}
+              <div className="w-64 md:w-80 lg:w-96 h-1 bg-gradient-to-r from-transparent via-white to-transparent mx-auto rounded-full"></div>
               
               {/* Enhanced Role Description */}
               <div className="mb-8">
