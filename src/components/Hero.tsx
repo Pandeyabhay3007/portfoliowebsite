@@ -115,11 +115,11 @@ const Hero = ({ scrollToSection }: HeroProps) => {
                   <div className="text-sm text-blue-200">Years Exp</div>
                 </div>
                 <div className="text-center">
-                  <div className="text-3xl font-bold text-white">100%</div>
+                  <div className="text-3xl font-bold text-white">99.99%</div>
                   <div className="text-sm text-blue-200">Client Satisfaction</div>
                 </div>
                 <div className="text-center">
-                  <div className="text-3xl font-bold text-white">100+</div>
+                  <div className="text-3xl font-bold text-white">1000+</div>
                   <div className="text-sm text-blue-200">Awards</div>
                 </div>
               </div>
